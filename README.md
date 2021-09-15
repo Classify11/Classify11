@@ -2,7 +2,4 @@
 - 👀 I’m interested in...
 - 🌱 I’m currently working on new project...
 
-<!---
-Classify11/Classify11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ptxnbyybjqtznemgh7k6uf4zq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
